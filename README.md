@@ -7,7 +7,7 @@ the current time.
 - Copy and paste this JS code into a new Script
 - Update the Adafruit IO username/key and feedname
 - Run the script
-- Edit your home or lock screen to add the widget
+- Edit your home or lock screen to add the widget (add the scriptable app as the widget and you'll be prompted to select the script - for the action choose "run script")
 - Tip the author of Scriptable using the in-app purchase!
 
 
