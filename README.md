@@ -10,4 +10,5 @@ the current time.
 - Edit your home or lock screen to add the widget (add the scriptable app as the widget and you'll be prompted to select the script - for the action choose "run script")
 - Tip the author of Scriptable using the in-app purchase!
 
-
+<img width="800" alt="Widget on Lock Screen" src="https://github.com/bradrblack/adafruit-io-scriptable-widget/blob/main/IMG_2217.jpg">
+<img width="800" alt="Widget on Home Screen" src="https://github.com/bradrblack/adafruit-io-scriptable-widget/blob/main/IMG_2218.jpg">
