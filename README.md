@@ -1,4 +1,4 @@
-Sample Scriptable Widget to Display AdafruitIO Feed Data on an iOS home
+Sample Scriptable Widgets to Display AdafruitIO Feed Data on an iOS home
 screen or lock screen widget.  In one example a temperature value is 
 displayed along with a message about how "fresh" the data is relative to 
 the current time.  In a second example, the battery voltage is displayed inside a round guage indicating the battery level.
