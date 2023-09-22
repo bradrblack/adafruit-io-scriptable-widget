@@ -13,6 +13,6 @@ the current time.
 <img width="600" alt="Widget on Lock Screen" src="https://github.com/bradrblack/adafruit-io-scriptable-widget/blob/main/IMG_2217.jpg">
 <img width="600" alt="Widget on Home Screen" src="https://github.com/bradrblack/adafruit-io-scriptable-widget/blob/main/IMG_2218.jpg">
 
-Also - here is a sample iOS/MacOS shortcut that will speak the Adafruit IO feed value...
+Also - here is a sample iOS/MacOS shortcut that will speak the Adafruit IO feed value.  Once you create this shortcut you can tap on the icon or simply ask Siri - I called my shortcut "Pool Temperature" so I can just say to my phone "Siri... Pool Temperature" and Siri will tell me the temp.
 
 <img width="600" alt="Widget on Home Screen" src="https://github.com/bradrblack/adafruit-io-scriptable-widget/blob/main/ShortCut%20Screenshot.png">
